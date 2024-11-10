@@ -48,3 +48,4 @@ else
 chown teamtalk.teamtalk /etc/teamtalk/tt5srv.xml
 fi
 systemctl start tt5server
+

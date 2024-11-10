@@ -7,3 +7,4 @@ rm -rf /etc/teamtalk
 rm -rf /var/log/teamtalk
 userdel teamtalk
 rm -rf /home/teamtalk
+
